@@ -11,7 +11,7 @@ Articut API 為卓騰語言科技之產品，利用語言學的角度頗析中�
 欲使用Articut API 需在 [公司官網](https://www.droidtown.co/zh-tw/) 申請金鑰，若無則在```username``` 與```articut_key``` 輸入空字串，每日只有2000 字額度。<br>
 參考程式碼：[Droidtown/NLP_Training/Unit04](https://github.com/Droidtown/NLP_Training/tree/main/Unit04)<br><br>
 
-須引入自定義數位金融字典：FinTech_Dict.json
+  須引入自定義數位金融字典：FinTech_Dict.json
 
 - 資料來源：<br>
 各金控官網的數位金融發展介紹：fintech.csv
